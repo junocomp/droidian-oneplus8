@@ -16,7 +16,7 @@ oneplus_oneplus8:
     - linux-bootimage-oneplus-oneplus8
     - linux-headers-4.19-81-oneplus-oneplus8
     - linux-headers-oneplus-oneplus8
-    - linux-image-4.9-81-oneplus-oneplus8
+    - linux-image-4.19-81-oneplus-oneplus8
     - linux-image-oneplus-oneplus8
     - droidian-camera
     - gstreamer1.0-tools
